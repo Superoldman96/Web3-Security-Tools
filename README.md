@@ -162,6 +162,12 @@ Xmind Link: https://xmind.works/share/zfdeD07U
 - [Blockchain Hacking QuickStart Guide](https://start.blockchainhax.com)
 - [How to Become a Smart Contract Auditor by Cmichel](https://cmichel.io/how-to-become-a-smart-contract-auditor/)
 
+### RWA Security Tools & Guides:
+
+- [RWA Development Handbook](https://www.quillaudits.com/research/rwa-development): Developer-focused handbook covering the RWA ecosystem landscape, regulatory mapping, system design, and 20+ EVM & non-EVM tokenization standards.
+- [Tokenization 101](https://www.quillaudits.com/tokenization-101): Interactive tool that maps asset class and chain to the recommended token standard, with live RWA market data and an audit-readiness scoring quiz.
+- [RWA Protocol Security Score](https://www.quillaudits.com/rwa-security-score): Free self-assessment tool that scores any RWA protocol across 8 weighted risk categories and 30+ factors, producing an A+ to F grade.
+
 ---
 
 ## Wallet Security:
